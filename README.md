@@ -1,7 +1,7 @@
  👋 Hi, I’m @aimee-mercury
-- 👀 am a frontend and mobile app developer 
-- 🌱i use same languages like
-- React <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#4a90e2" fill="none">
+ 👀 am a frontend and mobile app developer 
+🌱i use same languages like
+ React <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#4a90e2" fill="none">
     <path d="M8.00001 12C8.00001 6.47715 9.79087 2 12 2C14.2091 2 16 6.47715 16 12C16 17.5228 14.2091 22 12 22C9.79087 22 8.00001 17.5228 8.00001 12Z" stroke="currentColor" stroke-width="1.5" />
     <path d="M9.97531 8.61921C14.8173 5.85779 19.649 5.17014 20.7673 7.08331C21.8855 8.99648 18.8667 12.786 14.0247 15.5474C9.18271 18.3088 4.35098 18.9965 3.23277 17.0833C2.11455 15.1701 5.13329 11.3806 9.97531 8.61921Z" stroke="currentColor" stroke-width="1.5" />
     <path d="M14.0247 8.61921C18.8667 11.3806 21.8855 15.1701 20.7673 17.0833C19.649 18.9965 14.8173 18.3088 9.97531 15.5474C5.13329 12.786 2.11455 8.99648 3.23277 7.08331C4.35098 5.17014 9.18271 5.85779 14.0247 8.61921Z" stroke="currentColor" stroke-width="1.5" />
