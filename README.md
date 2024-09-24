@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm aimee mercury</h1>
-<h3 align="center">A passionate frontend developer And Mobile App developer from Rwanda</h3>
+<h3 align="center">A passionate frontend developer And Mobile App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimee-mercury&label=Profile%20views&color=0e75b6&style=flat" alt="aimee-mercury" /> </p>
 
