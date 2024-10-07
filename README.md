@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aimee-mercury&show_icons=true&locale=en" alt="aimee-mercury" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimee-mercury&" alt="aimee-mercury" /></p>
+<p>Y'all welcome </p>
